@@ -7,9 +7,9 @@ echo "Installing pip..."
 sudo apt-get install -y python3-pip
 
 echo "Installing Scapy..."
-pip3 install scapy
+sudo pip3 install scapy
 
-echo "Installing Nmap..."
-pip3 install python-nmap
+echo "Installing python-nmap..."
+sudo pip3 install python-nmap
 
 echo "Installation completed successfully!"
