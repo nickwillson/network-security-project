@@ -12,4 +12,7 @@ sudo pip3 install scapy
 echo "Installing python-nmap..."
 sudo pip3 install python-nmap
 
+echo "Installing Nmap..."
+sudo apt-get install -y nmap
+
 echo "Installation completed successfully!"
