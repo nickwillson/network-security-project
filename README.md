@@ -14,7 +14,7 @@ Setup
 1. Clone the Repository
 sh
 Copy code
-git clone https://github.com/yourusername/network-security-tool.git
+git clone https://github.com/nickwillson/network-security-project.git
 cd network-security-tool
 2. Make the Setup Script Executable
 sh
